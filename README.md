@@ -1,4 +1,15 @@
-### Hi there 👋
+# 👋 Hi there!
+
+**🔭 I’m currently working on**
+
+- A bachelor thesis on how playing regular Minecraft can be used to teach topics in computer science to children 
+
+## 🌱 I’m currently learning
+
+- REST API's
+- JWT AUthentication
+- Golang
+- Docker
 
 <!--
 **samerickson/samerickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
