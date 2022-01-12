@@ -8,6 +8,10 @@ I am Sam Erickson, I am currently finishing my last semester of my BSc in Comput
 - A REST API that handles worksummaries and client information for trades based companies
 - Endlessly tinkering with my Neovim configuration to improve the speed of my development workflow
 
+## 🔗 Links
+
+- **📝 Blog:** [dev.to](https://dev.to/samerickson)
+
 ## 🌱 I’m currently learning
 
 - JWT Authentication
