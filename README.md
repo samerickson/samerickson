@@ -14,7 +14,7 @@ I am Sam Erickson, I am currently finishing my last semester of my BSc in Comput
 
 ## 🌱 I’m currently learning
 
-- JWT Authentication
+- MQTT Broker in c++
 - Golang
 - Docker
 - **L**anguage **S**erver **P**rotocol (LSP) for improved code linting and autocompletion
