@@ -1,11 +1,8 @@
 # 👋 Hi there!
 
-I am a software developer working on building automation software that implements the BSCnet communication standard. 
-
-**🔭 I’m currently working on**
+I am a software developer working on various projects in support of building automation and efficiency.
 
 ## 🔗 Links
 
 - **📝 Blog:** [dev.to](https://dev.to/samerickson)
 
-## 🌱 I’m currently learning
